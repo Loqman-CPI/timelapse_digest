@@ -1,287 +1,478 @@
 {
-  "events": [
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://1.bp.blogspot.com/-4GombkGJ5K4/XX4N1jPSN9I/AAAAAAAABBU/Q9lLRrAaLW0zU0DwPvldlMN_Dr55kBbBACPcBGAYYCw/s1600/E%2BHacking%2BNews%2BLogo%2B300x90.png"
-      },
-      "start_date": {
-        "day": "03",
-        "month": "09",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ASSISTANCE-Cyber Criminals broke into the database of patients of the Russian cancer center and demanded a ransom - E Hacking News - Latest Hacker News and IT Security News",
-        "text": "Cyber Criminals broke into the database of patients of the Russian cancer center and demanded a ransom (E Hacking, Sep 03) Russia - The Sverdlovsk Regional Clinical Center was hit by a ransomware attack on Aug 21, encrypting data of 400 patients who were operated Aug 10-21 - information needed to prescribe an effective treatment. Management agreed to pay the ransom; however, the hackers have stopped communicating. As a result, medical reports had to be restored manually.- Sources : https://www.ehackingnews.com/2020/09/cyber-criminals-broke-into-database-of.html (https://www.theregister.com/2020/09/02/sepulcher_malware/)"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://static.bbci.co.uk/frameworks/barlesque/3.20.5/orb/4/img/bbc-blocks-dark.png"
-      },
-      "start_date": {
-        "day": "03",
-        "month": "09",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ASSISTANCE-Indian Prime Minister Modi Twitter account hacked - BBC News",
-        "text": "Indian Prime Minister Modi Twitter account hacked (BBC, Sep 03) India - Twitter has said that an account for the personal website of Indian Prime Minister Modi has been hacked with tweets being sent from the account asking followers to donate cryptocurrency to a relief fund. This is the latest high-profile Twitter security breach after similar attacks in July on US presidential candidate Joe Biden and Tesla founder Elon Musk.- Sources : https://www.bbc.com/news/business-54007995 (https://www.reuters.com/article/us-norway-parliament-idUSKBN25S587)"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://static.themoscowtimes.com/image/article_1360/0c/TASS41042959.jpg"
-      },
-      "start_date": {
-        "day": "03",
-        "month": "09",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ADVANCEMENT-China's Huawei Shifts Investment from U.S. to Russia - The Moscow Times",
-        "text": "China's Huawei Shifts Investment from U.S. to Russia (Moscow Times, Sep 01) Russia/China - Huawei founder said that after being included in the \"Entity List\", Huawei transferred investment in the US to Russia, increased Russian investment, expanded the Russian team and increased their salary. The “Entity List” contains over 100 Chinese firms the Trump administration has deemed a threat to US national security. It is the same list that was used to sanction Russian firms after the Crimea annexation.- Sources : https://www.themoscowtimes.com/2020/09/01/chinas-huawei-shifts-investment-from-us-russia-a71303"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://cdn-live.foreignaffairs.com/sites/default/files/images/2020/08/31/083120_TWOFA%20OVERLAY-01.png"
-      },
-      "start_date": {
-        "day": "03",
-        "month": "09",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "FORESIGHT-Foreign Affairs",
-        "text": "The Kremlin’s Plot Against Democracy (Foreign Affairs, Sep 03) US - With the tepid US response to Russia's 2016 election meddling and the government now consumed by the pandemic, the 2020 election will not be a replay of 2016 - it will be far worse, as Russia and others know they are pushing on an open door. To newcomers (e.g. China, Iran, Venezuela), the Kremlin’s 2016 operation against the United States offers a handy step-by-step guide.- Sources : https://www.foreignaffairs.com/articles/russian-federation/2020-08-11/putin-kremlins-plot-against-democracy"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": {
-        }
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ASSISTANCE-Google Warns of Emerging #COVID19 Cyber-Threat Hotspots - Infosecurity Magazine",
-        "text": "Google Warns of Emerging #COVID19 Cyber-Threat Hotspots (Infosecurity Magazine, June 11) Global - Google warned (https://cloud.google.com/blog/products/identity-security/blocking-coronavirus-cyber-threats) of a rise in COVID-19 threats in specific parts of the world, as cyber-criminals adapt their campaigns regionally. Google explained that its blocking more attacks of late in India, the UK and Brazil. These malware, phishing and spam threats “use regionally relevant lures, financial incentives and fear to create urgency and entice users to respond.”- Sources : https://www.infosecurity-magazine.com/news/google-warns-covid19-cyberthreat/"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/02/26/7e7d80d6-4780-4a74-a190-d2e43bbbd313/thumbnail/170x128/77bfdd3e60377b89575375ef2c4ce592/istock-939134866.jpg"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ACCOUNTABILITY-Italian company exposed as a front for malware operations | ZDNet",
-        "text": "Italian company exposed as a front for malware operations (ZDNet, June 12) Italy - The Italian company, CloudEye, operating a seemingly legitimate business, secretly advertised and provided its service to malware gangs. The company's secret business came to light after Check Point began looking at GuLoader, one of the most active malware operations of 2020. Check Point further linked CloudEye and its owners to activity on hacking forums going back to 2014.- Sources : https://www.zdnet.com/article/italian-company-exposed-as-a-front-for-malware-operations/"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/19/cde7d4d0-eeb7-4a88-a046-eb3fb9b11858/resize/220x165/12a90dab9aac6634e0cdc865bff3c720/footprints-by-the-sea.jpg"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ACCOUNTABILITY-Twitter bans 32k accounts pushing Chinese, Russian, and Turkish propaganda | ZDNet",
-        "text": "Twitter bans 32k accounts pushing Chinese, Russian, and Turkish propaganda (ZDNet, June 11) China/Russia/Turkey -  Twitter discovered (https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)  three new state-linked information operations, resulting to the ban and removal of 32,242 accounts that were operated out of China, Russia, and Turkey. All three information operations pushed local political agendas and narratives, respectively targeting the Hong Kong protests, Russian political dissidents, and anti-Erdogan rhetoric.- Sources : https://www.zdnet.com/article/twitter-bans-32k-accounts-pushing-chinese-russian-and-turkish-propaganda/"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ADVANCEMENT-Senate Intelligence Committee wants DNI to investigate commercial spyware threats - CyberScoop",
-        "text": "Senate Intelligence Committee wants DNI to investigate commercial spyware threats (CyberScoop, June 11) US - The Senate Intelligence Committee approved a measure that requires the Director of National Intelligence to submit a report to Congress on the threats posed by foreign governments’ and entities’ use of commercial spyware. The report would include information on how countries can work to reduce the threats of commercial spyware, including through export controls, diplomatic pressure, trade agreements, and work with the technology and telecommunications sectors to better secure consumers’ software.- Sources : https://www.cyberscoop.com/senate-intelligence-committee-spyware-report-dni/"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ADVANCEMENT- Chinese users saw Zoom as a window through the \'Great Firewall\' - Reuters",
-        "text": "Chinese users saw Zoom as a window through the 'Great Firewall' (Reuters, June 12) China - Zoom recently gained a following in China from users ranging from underground churches to feminists who saw it as a way to connect with the world beyond the reach of state censors. Some fear that window may be closing as Zoom suspended accounts of three US and Hong Kong activists at Beijing’s request. Zoom also said it was developing technology to enable it to remove or block participants based on geography.- Sources : https://www.reuters.com/article/us-zoom-video-commn-privacy-china/chinese-users-saw-zoom-as-a-window-through-the-great-firewall-idUSKBN23J1TE?feedType=RSS&feedName=technologyNews"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "FORESIGHT-Protecting our 911/112 lifeline as cyber threats intensify | Nokia",
-        "text": "Protecting our 911/112 lifeline as cyber threats intensify (Nokia, June 12) Global - 911/112 emergency services are  evolving, adding new capabilities to deliver a broader range of information to emergency response centers — e.g. real-time text and video, picture sharing, and IM. Taking advantage of these capabilities requires upgrading to next-generation 911/112 (NG911/112), while maintaining inter-operability with legacy systems.- Sources : https://www.nokia.com/blog/protecting-our-911112-lifeline-as-cyber-threats-intensify/"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": ""
-      },
-      "start_date": {
-        "day": "12",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "FORESIGHT-None",
-        "text": "However, making the switch to this type of network brings a new kind of vulnerability as the NG911/112 infrastructure is connected to other domains, including the internet — where it is exposed to evolving cyberattacks that can disrupt 911/112 communications and even operations, making emergency services unreliable or even unavailable.- Sources :"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://thehackernews.com/images/-71RqUIxaAoA/XvrpBUhrrjI/AAAAAAAAAhE/mRKhI8VcbDUVvdMXkJ5xmTUrn4ZkklwxgCLcBGAsYHQ/s728-e100/computer-security.jpg"
-      },
-      "start_date": {
-        "day": "30",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ASSISTANCE-Advanced StrongPity Hackers Target Syria and Turkey with Retooled Spyware",
-        "text": "Advanced StrongPity Hackers Target Syria and Turkey with Retooled Spyware (The Hacker News, June 30) Turkey/Syria - Bitdefender (https://labs.bitdefender.com/2020/06/strongpity-apt-revealing-trojanized-tools-working-hours-and-infrastructure/) uncovered watering hole attacks against the Kurdish community in Syria and Turkey for surveillance and intelligence purposes. APT, StrongPity, is accused of using these tactics to selectively infect victims and deploy a three-tier C&C infrastructure to thwart forensic investigations. The APT group leveraged trojanized popular tools to cover a wide range of options that targeted victims might be seeking.- Sources : https://thehackernews.com/2020/06/strongpity-syria-turkey-hackers.html"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/30/5915e277-7747-42bb-b192-ad6cf21bd052/pan-os-affected.png"
-      },
-      "start_date": {
-        "day": "30",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ACCOUNTABILITY-US Cyber Command says foreign hackers will attempt to exploit new PAN-OS security bug | ZDNet",
-        "text": "US Cyber Command says foreign hackers will most likely exploit new PAN-OS security bug (Quartz Africa, June 27) US/Global - US Cyber Command said that foreign state-sponsored hacking groups are likely to exploit a major security bug disclosed today in PAN-OS, the operating system running on firewalls and enterprise VPN appliances from Palo Alto Networks.- Sources : https://www.zdnet.com/article/us-cyber-command-says-foreign-hackers-will-most-likely-exploit-new-pan-os-security-bug/"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://gdb.rferl.org/142CFDA9-62DB-4369-902E-64644711DE1D_w250_r1_s.jpg"
-      },
-      "start_date": {
-        "day": "30",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ACCOUNTABILITY-Iran Says No Indication Cyberattack Led To Downing Of Ukrainian Airliner",
-        "text": "Iran Says No Indication Cyberattack Led To Downing Of Ukrainian Airliner (RFERL, June 29) Iran - An Iranian military prosecutor says there is no indication that the downing of a Ukrainian passenger jet in Iran in January was due to a cyberattack on the country's defense system. The military prosecutor for Tehran Province, reiterated that human error was the cause of the accident that killed all 176 people on board the Boeing 737 airliner.- Sources : https://www.rferl.org/a/iran-no-indication-cyberattack-downing-ukrainian-airliner/30696907.html"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://gdb.rferl.org/142CFDA9-62DB-4369-902E-64644711DE1D_w250_r1_s.jpg"
-      },
-      "start_date": {
-        "day": "30",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ADVANCEMENT-None",
-        "text": "After Deadly Clash, India Bans 59 Chinese Mobile Apps Over 'Security' (Security Week, June 27) India/China - India banned 59 Chinese apps, including the TikTok and WeChat, over national security and privacy concerns two weeks after a deadly Himalayan border clash between the nuclear-armed neighbours. India's Ministry of IT said that the apps \"are engaged in activities... prejudicial to sovereignty and integrity of India, defence of India, security of state and public order... This decision is a targeted move to ensure safety and sovereignty of Indian cyberspace.\"- Sources : https://www.securityweek.com/after-deadly-clash-india-bans-59-chinese-mobile-apps-over-security"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://img.etimg.com/photo/msid-76920425,quality-100/et-logo.jpg"
-      },
-      "start_date": {
-        "day": "30",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "ADVANCEMENT-None",
-        "text": "India steps up vigil for cyber attacks from China after apps ban (India Times, June 27) India/China - The Indian government has increased a nationwide alert and stepped up monitoring in preparation for intensified cybersecurity attacks from China. There will be greater scrutiny of companies, device makers and apps with exposure to China. Among all the sectors, power, telecom and financial services are being monitored even more closely, given their exposure to Chinese infrastructure.- Sources : https://economictimes.indiatimes.com/tech/internet/india-steps-up-vigil-for-cyber-attacks-from-china-after-apps-ban/articleshow/76710580.cms"
-      }
-    },
-    {
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://www.bleepstatic.com/images/news/scams/surveillance-cams/highway.jpg"
-      },
-      "start_date": {
-        "day": "30",
-        "month": "06",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "FORESIGHT-How public safety systems can be abused by nation state actors",
-        "text": "How public safety systems can be abused by nation state actors (BleepingComputer, June 30) Global - Open systems, open data, and open-source software provide a means to promote greater transparency, public trust, and user participation. Common ‘vulnerabilities’ in our societal systems exploited on a smaller scale, which can easily be exploited by nation-state hackers.- Sources : https://www.bleepingcomputer.com/news/security/how-public-safety-systems-can-be-abused-by-nation-state-actors/"
-      }
-    }
-  ],
   "title": {
     "media": {
-      "caption": "Cyber Peace Institute Logo",
-      "url": "https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/09/cpi-image-jpg__w630.jpg"
+      "url": "https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/09/cpi-image-jpg__w630.jpg",
+      "caption": "Cyber Peace Institute Logo"
     },
     "text": {
       "headline": "Automized Timelapse from <br/> the Daily Digest",
       "text": "<p>Accountability. </p>"
     }
-  }
+  },
+  "events": [
+    {
+      "start_date": {
+        "month": "09",
+        "day": "03",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://1.bp.blogspot.com/-4GombkGJ5K4/XX4N1jPSN9I/AAAAAAAABBU/Q9lLRrAaLW0zU0DwPvldlMN_Dr55kBbBACPcBGAYYCw/s1600/E%2BHacking%2BNews%2BLogo%2B300x90.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Cyber Criminals broke into the database of patients of the Russian cancer center and demanded a ransom (E Hacking, Sep 03) Russia - The Sverdlovsk Regional Clinical Center was hit by a ransomware attack on Aug 21, encrypting data of 400 patients who were operated Aug 10-21 - information needed to prescribe an effective treatment. Management agreed to pay the ransom; however, the hackers have stopped communicating. As a result, medical reports had to be restored manually.- Sources : https://www.ehackingnews.com/2020/09/cyber-criminals-broke-into-database-of.html (https://www.theregister.com/2020/09/02/sepulcher_malware/)",
+        "headline": "ASSISTANCE-Cyber Criminals broke into the database of patients of the Russian cancer center and demanded a ransom - E Hacking News - Latest Hacker News and IT Security News"
+      }
+    },
+    {
+      "start_date": {
+        "month": "09",
+        "day": "03",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://static.bbci.co.uk/frameworks/barlesque/3.20.5/orb/4/img/bbc-blocks-dark.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Indian Prime Minister Modi Twitter account hacked (BBC, Sep 03) India - Twitter has said that an account for the personal website of Indian Prime Minister Modi has been hacked with tweets being sent from the account asking followers to donate cryptocurrency to a relief fund. This is the latest high-profile Twitter security breach after similar attacks in July on US presidential candidate Joe Biden and Tesla founder Elon Musk.- Sources : https://www.bbc.com/news/business-54007995 (https://www.reuters.com/article/us-norway-parliament-idUSKBN25S587)",
+        "headline": "ASSISTANCE-Indian Prime Minister Modi Twitter account hacked - BBC News"
+      }
+    },
+    {
+      "start_date": {
+        "month": "09",
+        "day": "03",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://static.themoscowtimes.com/image/article_1360/0c/TASS41042959.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "China's Huawei Shifts Investment from U.S. to Russia (Moscow Times, Sep 01) Russia/China - Huawei founder said that after being included in the \"Entity List\", Huawei transferred investment in the US to Russia, increased Russian investment, expanded the Russian team and increased their salary. The “Entity List” contains over 100 Chinese firms the Trump administration has deemed a threat to US national security. It is the same list that was used to sanction Russian firms after the Crimea annexation.- Sources : https://www.themoscowtimes.com/2020/09/01/chinas-huawei-shifts-investment-from-us-russia-a71303",
+        "headline": "ADVANCEMENT-China\\'s Huawei Shifts Investment from U.S. to Russia - The Moscow Times"
+      }
+    },
+    {
+      "start_date": {
+        "month": "09",
+        "day": "03",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://cdn-live.foreignaffairs.com/sites/default/files/images/2020/08/31/083120_TWOFA%20OVERLAY-01.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "The Kremlin’s Plot Against Democracy (Foreign Affairs, Sep 03) US - With the tepid US response to Russia's 2016 election meddling and the government now consumed by the pandemic, the 2020 election will not be a replay of 2016 - it will be far worse, as Russia and others know they are pushing on an open door. To newcomers (e.g. China, Iran, Venezuela), the Kremlin’s 2016 operation against the United States offers a handy step-by-step guide.- Sources : https://www.foreignaffairs.com/articles/russian-federation/2020-08-11/putin-kremlins-plot-against-democracy",
+        "headline": "FORESIGHT-Foreign Affairs"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": {},
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Google Warns of Emerging #COVID19 Cyber-Threat Hotspots (Infosecurity Magazine, June 11) Global - Google warned (https://cloud.google.com/blog/products/identity-security/blocking-coronavirus-cyber-threats) of a rise in COVID-19 threats in specific parts of the world, as cyber-criminals adapt their campaigns regionally. Google explained that its blocking more attacks of late in India, the UK and Brazil. These malware, phishing and spam threats “use regionally relevant lures, financial incentives and fear to create urgency and entice users to respond.”- Sources : https://www.infosecurity-magazine.com/news/google-warns-covid19-cyberthreat/",
+        "headline": "ASSISTANCE-Google Warns of Emerging #COVID19 Cyber-Threat Hotspots - Infosecurity Magazine"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/02/26/7e7d80d6-4780-4a74-a190-d2e43bbbd313/thumbnail/170x128/77bfdd3e60377b89575375ef2c4ce592/istock-939134866.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Italian company exposed as a front for malware operations (ZDNet, June 12) Italy - The Italian company, CloudEye, operating a seemingly legitimate business, secretly advertised and provided its service to malware gangs. The company's secret business came to light after Check Point began looking at GuLoader, one of the most active malware operations of 2020. Check Point further linked CloudEye and its owners to activity on hacking forums going back to 2014.- Sources : https://www.zdnet.com/article/italian-company-exposed-as-a-front-for-malware-operations/",
+        "headline": "ACCOUNTABILITY-Italian company exposed as a front for malware operations | ZDNet"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/19/cde7d4d0-eeb7-4a88-a046-eb3fb9b11858/resize/220x165/12a90dab9aac6634e0cdc865bff3c720/footprints-by-the-sea.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Twitter bans 32k accounts pushing Chinese, Russian, and Turkish propaganda (ZDNet, June 11) China/Russia/Turkey -  Twitter discovered (https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)  three new state-linked information operations, resulting to the ban and removal of 32,242 accounts that were operated out of China, Russia, and Turkey. All three information operations pushed local political agendas and narratives, respectively targeting the Hong Kong protests, Russian political dissidents, and anti-Erdogan rhetoric.- Sources : https://www.zdnet.com/article/twitter-bans-32k-accounts-pushing-chinese-russian-and-turkish-propaganda/",
+        "headline": "ACCOUNTABILITY-Twitter bans 32k accounts pushing Chinese, Russian, and Turkish propaganda | ZDNet"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Senate Intelligence Committee wants DNI to investigate commercial spyware threats (CyberScoop, June 11) US - The Senate Intelligence Committee approved a measure that requires the Director of National Intelligence to submit a report to Congress on the threats posed by foreign governments’ and entities’ use of commercial spyware. The report would include information on how countries can work to reduce the threats of commercial spyware, including through export controls, diplomatic pressure, trade agreements, and work with the technology and telecommunications sectors to better secure consumers’ software.- Sources : https://www.cyberscoop.com/senate-intelligence-committee-spyware-report-dni/",
+        "headline": "ADVANCEMENT-Senate Intelligence Committee wants DNI to investigate commercial spyware threats - CyberScoop"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Chinese users saw Zoom as a window through the 'Great Firewall' (Reuters, June 12) China - Zoom recently gained a following in China from users ranging from underground churches to feminists who saw it as a way to connect with the world beyond the reach of state censors. Some fear that window may be closing as Zoom suspended accounts of three US and Hong Kong activists at Beijing’s request. Zoom also said it was developing technology to enable it to remove or block participants based on geography.- Sources : https://www.reuters.com/article/us-zoom-video-commn-privacy-china/chinese-users-saw-zoom-as-a-window-through-the-great-firewall-idUSKBN23J1TE?feedType=RSS&feedName=technologyNews",
+        "headline": "ADVANCEMENT- Chinese users saw Zoom as a window through the \\'Great Firewall\\' - Reuters"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Protecting our 911/112 lifeline as cyber threats intensify (Nokia, June 12) Global - 911/112 emergency services are  evolving, adding new capabilities to deliver a broader range of information to emergency response centers — e.g. real-time text and video, picture sharing, and IM. Taking advantage of these capabilities requires upgrading to next-generation 911/112 (NG911/112), while maintaining inter-operability with legacy systems.- Sources : https://www.nokia.com/blog/protecting-our-911112-lifeline-as-cyber-threats-intensify/",
+        "headline": "FORESIGHT-Protecting our 911/112 lifeline as cyber threats intensify | Nokia"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "12",
+        "year": "2020"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "However, making the switch to this type of network brings a new kind of vulnerability as the NG911/112 infrastructure is connected to other domains, including the internet — where it is exposed to evolving cyberattacks that can disrupt 911/112 communications and even operations, making emergency services unreliable or even unavailable.- Sources :",
+        "headline": "FORESIGHT-None"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "30",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://thehackernews.com/images/-71RqUIxaAoA/XvrpBUhrrjI/AAAAAAAAAhE/mRKhI8VcbDUVvdMXkJ5xmTUrn4ZkklwxgCLcBGAsYHQ/s728-e100/computer-security.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Advanced StrongPity Hackers Target Syria and Turkey with Retooled Spyware (The Hacker News, June 30) Turkey/Syria - Bitdefender (https://labs.bitdefender.com/2020/06/strongpity-apt-revealing-trojanized-tools-working-hours-and-infrastructure/) uncovered watering hole attacks against the Kurdish community in Syria and Turkey for surveillance and intelligence purposes. APT, StrongPity, is accused of using these tactics to selectively infect victims and deploy a three-tier C&C infrastructure to thwart forensic investigations. The APT group leveraged trojanized popular tools to cover a wide range of options that targeted victims might be seeking.- Sources : https://thehackernews.com/2020/06/strongpity-syria-turkey-hackers.html",
+        "headline": "ASSISTANCE-Advanced StrongPity Hackers Target Syria and Turkey with Retooled Spyware"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "30",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/30/5915e277-7747-42bb-b192-ad6cf21bd052/pan-os-affected.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "US Cyber Command says foreign hackers will most likely exploit new PAN-OS security bug (Quartz Africa, June 27) US/Global - US Cyber Command said that foreign state-sponsored hacking groups are likely to exploit a major security bug disclosed today in PAN-OS, the operating system running on firewalls and enterprise VPN appliances from Palo Alto Networks.- Sources : https://www.zdnet.com/article/us-cyber-command-says-foreign-hackers-will-most-likely-exploit-new-pan-os-security-bug/",
+        "headline": "ACCOUNTABILITY-US Cyber Command says foreign hackers will attempt to exploit new PAN-OS security bug | ZDNet"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "30",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://gdb.rferl.org/142CFDA9-62DB-4369-902E-64644711DE1D_w250_r1_s.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Iran Says No Indication Cyberattack Led To Downing Of Ukrainian Airliner (RFERL, June 29) Iran - An Iranian military prosecutor says there is no indication that the downing of a Ukrainian passenger jet in Iran in January was due to a cyberattack on the country's defense system. The military prosecutor for Tehran Province, reiterated that human error was the cause of the accident that killed all 176 people on board the Boeing 737 airliner.- Sources : https://www.rferl.org/a/iran-no-indication-cyberattack-downing-ukrainian-airliner/30696907.html",
+        "headline": "ACCOUNTABILITY-Iran Says No Indication Cyberattack Led To Downing Of Ukrainian Airliner"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "30",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://gdb.rferl.org/142CFDA9-62DB-4369-902E-64644711DE1D_w250_r1_s.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "After Deadly Clash, India Bans 59 Chinese Mobile Apps Over 'Security' (Security Week, June 27) India/China - India banned 59 Chinese apps, including the TikTok and WeChat, over national security and privacy concerns two weeks after a deadly Himalayan border clash between the nuclear-armed neighbours. India's Ministry of IT said that the apps \"are engaged in activities... prejudicial to sovereignty and integrity of India, defence of India, security of state and public order... This decision is a targeted move to ensure safety and sovereignty of Indian cyberspace.\"- Sources : https://www.securityweek.com/after-deadly-clash-india-bans-59-chinese-mobile-apps-over-security",
+        "headline": "ADVANCEMENT-None"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "30",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://img.etimg.com/photo/msid-76920425,quality-100/et-logo.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "India steps up vigil for cyber attacks from China after apps ban (India Times, June 27) India/China - The Indian government has increased a nationwide alert and stepped up monitoring in preparation for intensified cybersecurity attacks from China. There will be greater scrutiny of companies, device makers and apps with exposure to China. Among all the sectors, power, telecom and financial services are being monitored even more closely, given their exposure to Chinese infrastructure.- Sources : https://economictimes.indiatimes.com/tech/internet/india-steps-up-vigil-for-cyber-attacks-from-china-after-apps-ban/articleshow/76710580.cms",
+        "headline": "ADVANCEMENT-None"
+      }
+    },
+    {
+      "start_date": {
+        "month": "06",
+        "day": "30",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://www.bleepstatic.com/images/news/scams/surveillance-cams/highway.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "How public safety systems can be abused by nation state actors (BleepingComputer, June 30) Global - Open systems, open data, and open-source software provide a means to promote greater transparency, public trust, and user participation. Common ‘vulnerabilities’ in our societal systems exploited on a smaller scale, which can easily be exploited by nation-state hackers.- Sources : https://www.bleepingcomputer.com/news/security/how-public-safety-systems-can-be-abused-by-nation-state-actors/",
+        "headline": "FORESIGHT-How public safety systems can be abused by nation state actors"
+      }
+    },
+    {
+      "start_date": {
+        "month": "08",
+        "day": "06",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://i0.wp.com/hongkongfp.com/wp-content/uploads/2020/08/China_Travel_Service_in_Mong_Kok_2007-Copy.jpg?resize=780%2C585&ssl=1",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Hong Kong newspaper staff claim photos leaked on ‘doxxing’ site linked to Chinese travel agency (Hong Kong Free Press, Aug 05) US - Hong Kong newspaper - Apple Daily, claims that staff headshots were posted on a “doxxing” website, with the offer of HK$1000-5000 for tip-offs about “toxic journalists.” Apple Daily is owned by Jimmy Lai, who came under fire for supporting Hong Kong's anti-extradition bill protests. The photos are believed to come from mainland travel permit applications.- Sources : https://hongkongfp.com/2020/08/05/hong-kong-newspaper-staff-claim-photos-leaked-on-doxxing-site-linked-to-chinese-travel-agency/",
+        "headline": "ASSISTANCE-twitter"
+      }
+    },
+    {
+      "start_date": {
+        "month": "08",
+        "day": "06",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/03/496f052d-e523-40c2-ab73-82e212989e87/iran-doh-apt.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Iranian hacker group becomes first known APT to weaponize DNS-over-HTTPS (DoH) (ZDNet, Aug 04) Iran - Iranian hacking group known as Oilrig (APT34) has become the first publicly known threat actor to incorporate the DNS-over-HTTPS protocol in its attacks. Kaspersky said Oilrig started using DNSExfiltrator in May to move data laterally across internal networks, and then exfiltrate it to an outside point to avoid having its activities detected or monitored while moving stolen data.- Sources : https://www.zdnet.com/article/iranian-hacker-group-becomes-first-known-apt-to-weaponize-dns-over-https-doh/",
+        "headline": "ACCOUNTABILITY-Iranian hacker group becomes first known APT to weaponize DNS-over-HTTPS (DoH) | ZDNet"
+      }
+    },
+    {
+      "start_date": {
+        "month": "08",
+        "day": "06",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://secure.gravatar.com/avatar/?s=56&d=retro&r=g",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Google shuts down Chinese, Iranian and Russian influence campaigns ahead of US election (IT Security Guru, Aug 06) China/Tunisia/Iran/Russia - Ten influence campaigns from China, Tunisia, Russia, and Iran have been discovered across Google platforms, and removed throughout Q2 2020, Google’s Threat Analysis Group (TAG) announced. TAG is responsible within Google’s security department for keeping track of high-end cybercriminal activity, including influence campaigns.- Sources : https://www.itsecurityguru.org/2020/08/06/google-shuts-down-chinese-iranian-and-russian-influence-campaigns-ahead-of-us-election/?utm_source=feedly&utm_medium=rss&utm_campaign=google-shuts-down-chinese-iranian-and-russian-influence-campaigns-ahead-of-us-election",
+        "headline": "ACCOUNTABILITY-Google shuts down Chinese, Iranian and Russian influence campaigns ahead of US election - IT Security Guru"
+      }
+    },
+    {
+      "start_date": {
+        "month": "08",
+        "day": "06",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://images.wsj.net/im-226920?width=300&height=200",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "First EU Sanctions for Cyberattacks Point to Alignment With U.S. on Foreign Hacking (Wall Street Journal, Aug 05) US/EU - The EU imposed sanctions for the first time in response to major cyberattacks, bringing it closer to the US approach of publicly naming and seeking punishment for nation-state hackers. Over the last years, the US stepped up efforts to sanction, publicly indict, and seek extradition for foreign hackers.- Sources : https://www.wsj.com/articles/first-eu-sanctions-for-cyberattacks-point-to-alignment-with-u-s-on-foreign-hacking-11596619801 (https://www.forbes.com/sites/jemimamcevoy/2020/08/03/house-intelligence-committee-to-investigate-dhs-over-reports-it-collected-info-on-journalists-protesters/#135f13e9279b)",
+        "headline": "ADVANCEMENT-None"
+      }
+    },
+    {
+      "start_date": {
+        "month": "08",
+        "day": "06",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/05123503/vote_election-e1541439322467.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "U.S. Offers Reward of $10M for Info Leading to Discovery of Election Meddling (Threatpost, Aug 06) US - The US is offering up to $10 million for anyone providing information that could lead to tracking down actors aiming to sabotage the 2020 vote. The Department of State’s Rewards for Justice (https://rewardsforjustice.net/english/)  will pay for info that can identify someone working with/for a foreign government “for the purpose of interfering with US elections through illegal cyber activities,” according to the department’s website (https://www.state.gov/rewards-for-justice-reward-offer-for-information-on-foreign-interference-in-u-s-elections/) .- Sources : https://threatpost.com/u-s-offers-reward-of-10m-for-info-leading-to-discovery-of-election-meddling/158110/",
+        "headline": "ADVANCEMENT-U.S. Offers Reward of $10M for Info Leading to Discovery of Election Meddling | Threatpost"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/29/80cf817a-87cf-40d0-b2b9-f2a8c0965e35/thumbnail/570x322/d566f27a85efc8c446edcd718257cd44/israel-government-tells-water-treatment-5ea855c21c719e4526590321-1-apr-29-2020-13-35-57-poster.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Two more cyber-attacks hit Israel's water system (ZDNet, July 20) Israel - Two Israeli water management facilities were hit by cyberattacks in June according to officials from the Water Authority. The first attack hit agricultural water pumps in upper Galilee, while the second one hit water pumps in the central province of Mateh Yehuda. The attacks did not  cause any damage to the attacked organizations. The two attacks come after Israel suffered a cyberattack on its water supply system in April.- Sources : https://www.zdnet.com/article/two-more-cyber-attacks-hit-israels-water-system/#ftag=RSSbaffb68",
+        "headline": "ASSISTANCE-Two more cyber-attacks hit Israel\\'s water system | ZDNet"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://www.taipeitimes.com/images/2020/07/19/P05-200719-318.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Twitter attack was work of young hacker pals: ‘NYT’ (Taipai Times, July 19) Global - Hackers involved in the hijacking of Twitter accounts earlier this week were young pals with no links to state or organized crime, the New York Times reported on Friday. The attack, which Twitter and US federal police are investigating, started with a playful message between hackers on the platform Discord, a chat service popular with gamers. The paper said it had interviewed four people who participated in the hacking, who shared logs and screenshots backing up their accounts of what happened.- Sources : https://www.taipeitimes.com/News/world/archives/2020/07/19/2003740196",
+        "headline": "ACCOUNTABILITY-Twitter attack was work of young hacker pals: \\xe2\\x80\\x98NYT\\xe2\\x80\\x99 - Taipei Times"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://www.facebook.com/tr?id=1079602372119216&ev=PageView&noscript=1",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Who hacked the website of North Macedonia’s state election commission on election day? (BNE Intellinews, July 19) UK/Russia -  The website of North Macedonia’s State Election Commission was targeted by hackers immediately after polls closed in the snap general election on July 15, leaving the question of who stands behind the attack?Even though the elections passed in a free and democratic manner and were among the most peaceful in the country so far, the DDoS attack left a big stain on the election — the first since the country changed its name to North Macedonia and become a Nato member.- Sources : https://www.intellinews.com/who-hacked-the-website-of-north-macedonia-s-state-election-commission-on-election-day-187756/",
+        "headline": "ACCOUNTABILITY-bne IntelliNews - Who hacked the website of North Macedonia\\xe2\\x80\\x99s state election commission on election day?"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://tnimage.s3.hicloud.net.tw/photos/2020/07/18/1595064409-5f12c059cf87e.jpg",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "'Stop phone hacking for China' (Taiwan News, July 20) China/Israel - Prominent Hong Kong pro-democracy activist Nathan Law has started an online petition (https://www.change.org/p/cellebrite-calling-upon-cellebrite-to-terminate-phone-hacking-cooperations-with-hong-kong-police)  calling on the Israeli forensics company Cellebrite to stop helping the Hong Kong police crack protesters' cell phones. Law emphasized the Hong Kong police have used Cellebrite's hacking technology to get around security features on protesters' smartphones. Cellebrite promotes its technology as key to creating a \"safer world.\"- Sources : https://www.taiwannews.com.tw/en/news/3969386",
+        "headline": "ADVANCEMENT-'Stop phone hacking for China' | Taiwan News"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://cdn07.allafrica.com/static/images/structure/aa-logo-rgba-no-text-128x128.png",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Zimbabwe: Global Rights Group Slams Cyber Security Bill for Infringing Citizens' Rights (AllAfrica, July 20) Zimbabwe - Global rights group, IFEX, slammed Zimbabwe's proposed Cyber Security and Data Protection Bill saying it has the potential of infringing citizens' privacy, and that it lacks judicial oversight. The Bill is now before Parliament and according to the drafters, serves to consolidate cyber-related offences and provide data protection under the Constitution and the public and national interest.- Sources : https://allafrica.com/stories/202007200123.html",
+        "headline": "ADVANCEMENT-Zimbabwe: Global Rights Group Slams Cyber Security Bill for Infringing Citizens\\' Rights - allAfrica.com"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://s3.amazonaws.com/arc-authors/washpost/2c7540fd-0b6e-46b5-aa62-d5297a7da0de.png&w=90&h=90",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "The Cybersecurity 202: Russia and China's vaccine hacks don't violate rules of road for cyberspace, experts say (Washington Post, July 20) Global - Lawmakers are pushing for consequences against Russia and China for hacking Western research into coronavirus vaccines – calling it a “life or death” issue. But stealing vaccine research during a pandemic – seen as a digital extension of classic espionage – doesn’t directly violate rules for which US officials have spent years advocating in cyberspace. Some experts worry the push could undermine the effort to instill those global norms.- Sources : https://www.washingtonpost.com/politics/2020/07/20/cybersecurity-202-russia-china-vaccine-hacks-dont-violate-rules-road-cyberspace-experts-say/",
+        "headline": "ADVANCEMENT-comment"
+      }
+    },
+    {
+      "start_date": {
+        "month": "07",
+        "day": "20",
+        "year": "2020"
+      },
+      "media": {
+        "url": "https://images.wsj.net/im-226920?width=300&height=200",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "text": "Academic Project Used Marketing Data to Monitor Russian Military Sites (BNE Intellinews, July 19) Russia -  Commercially available location data is increasingly used for sensitive surveillance by researchers and government agencies. US academic researchers were able to monitor Russian military bases and missile-test sites—all using location data from cellphone apps. Cellphone location data purchased from marketers enabled researchers at Mississippi State to track the movements of Russian generals.- Sources : https://www.wsj.com/articles/academic-project-used-marketing-data-to-monitor-russian-military-sites-11595073601",
+        "headline": "FORESIGHT-None"
+      }
+    }
+  ]
 }
